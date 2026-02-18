@@ -1,6 +1,3 @@
-if SHIELD_BP01
-
+# Kconfig.shield
 config SHIELD_BP01
     def_bool $(shields_list_contains,bp01)
-
-endif
