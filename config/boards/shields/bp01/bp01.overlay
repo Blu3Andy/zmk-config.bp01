@@ -41,7 +41,3 @@
         >;
     };
 };
-
-&led0 {
-    status = "disabled";
-};
